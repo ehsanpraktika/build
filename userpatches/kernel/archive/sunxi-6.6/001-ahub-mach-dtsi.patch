@@ -36,3 +36,4 @@ index 4c1b61b3c64f..3337408ce208 100644
                          dmas            = <&dma 4>, <&dma 4>;
 -- 
 Created with Armbian build tools https://github.com/armbian/build
+
